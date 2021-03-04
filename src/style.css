@@ -43,9 +43,6 @@ body {
     background-color: #212121;
 }
 
-
-
-
 .Group-7 {
     width: 240px;
     height: 301px;
@@ -61,7 +58,6 @@ body {
     height: 220px;
     object-fit: contain;
 }
-
 
 .Group-2 {
     position: absolute;
@@ -222,7 +218,7 @@ body {
     text-align: center;
     line-height: 42px;
 }
-.footers{
+.footer-part{
 	position: absolute;
 	top: 750px;
 	margin-left: 80px;
